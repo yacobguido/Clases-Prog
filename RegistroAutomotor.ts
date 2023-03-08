@@ -38,7 +38,7 @@ export default class RegistroAutomotor {
     actualizarAutos(nombreAuto: string, {nombre, modelo, año, color}:{nombre?: string, modelo?: string, año?: number, color?: string}) {
       const autoIndex = this.listaAutos.findIndex((auto) => auto.getNombre() === nombreAuto);
       if (autoIndex < 0 ) {
-        throw new Error('Auto no encontrado');
+        throw Error('Auto no encontrado');
       }
       this.listaAutos[autoIndex].actualizarAuto({nombre, modelo, año, color});
     }
