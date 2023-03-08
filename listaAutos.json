@@ -3,48 +3,48 @@
         "nombre": "Ferrari",
         "modelo": "F430",
         "año": 2008,
-        "color": "Red"
+        "color": "Rojo"
     },
     {
         "nombre": "Hyundai",
         "modelo": "Elantra",
         "año": 2012,
-        "color": "Red"
+        "color": "Rojo"
     },
     {
         "nombre": "Toyota",
         "modelo": "Yaris",
         "año": 2010,
-        "color": "Khaki"
+        "color": "Gris"
     },
     {
         "nombre": "Mercedes-Benz",
         "modelo": "C-Class",
         "año": 2015,
-        "color": "Crimson"
+        "color": "Negro"
     },
     {
         "nombre": "Mercedes-Benz",
         "modelo": "E-Class",
         "año": 2004,
-        "color": "Maroon"
+        "color": "Blanco"
     },
     {
         "nombre": "Suzuki",
         "modelo": "Grand Vitara",
         "año": 2011,
-        "color": "Green"
+        "color": "Verde"
     },
     {
         "nombre": "Pontiac",
         "modelo": "Grand Am",
         "año": 1987,
-        "color": "Blue"
+        "color": "Azul"
     },
     {
         "nombre": "Mazda",
         "modelo": "RX-8",
         "año": 2006,
-        "color": "Goldenrod"
+        "color": "Bordo"
     }
 ]
