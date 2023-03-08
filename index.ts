@@ -3,9 +3,9 @@ import Auto from "./Auto";
 
 
 const registro = new RegistroAutomotor();
-registro.agregarAuto(new Auto({nombre:'Ford', modelo:'Mustang', año:2022, color:'red'}));
-registro.agregarAuto(new Auto({nombre:'Tesla', modelo:'Model S', año:2021, color:'black'}));
-registro.agregarAuto(new Auto({nombre:'Toyota', modelo:'Corolla',año:2020, color:'white'}));
+registro.agregarAuto(new Auto({nombre:'Ford', modelo:'Mustang', año:2022, color:'Rojo'}));
+registro.agregarAuto(new Auto({nombre:'Tesla', modelo:'Model S', año:2021, color:'Negro'}));
+registro.agregarAuto(new Auto({nombre:'Toyota', modelo:'Corolla',año:2020, color:'Blamco'}));
 
 console.log("--registro de auto Ford--");
 const autoEncontrado = registro.buscarAuto('Ford');
