@@ -49,7 +49,7 @@ export default class RegistroAutomotor {
 
     cargarAutosFromCollection() {
       try {
-        const jsonData = fs.readFileSync('PrimerTp/listaAutos.json', 'utf-8');
+        const jsonData = fs.readFileSync('./listaAutos.json', 'utf-8');
         const dataAutos = JSON.parse(jsonData) as Auto[];
   
         for (const dataAuto of dataAutos) {
