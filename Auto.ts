@@ -50,6 +50,6 @@ export default class Auto {
     }
 
     aTexto():string {
-        return "" + this.nombre + ", " + this.modelo + ", " + this.año + ", " + this.color;
+        return `${this.nombre}, ${this.modelo}, ${this.año}, ${this.color}`;
     }
 }
