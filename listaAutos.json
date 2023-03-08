@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Ferrari",
+        "modelo": "F430",
+        "año": 2008,
+        "color": "Red"
+    },
+    {
+        "nombre": "Hyundai",
+        "modelo": "Elantra",
+        "año": 2012,
+        "color": "Red"
+    },
+    {
+        "nombre": "Toyota",
+        "modelo": "Yaris",
+        "año": 2010,
+        "color": "Khaki"
+    },
+    {
+        "nombre": "Mercedes-Benz",
+        "modelo": "C-Class",
+        "año": 2015,
+        "color": "Crimson"
+    },
+    {
+        "nombre": "Mercedes-Benz",
+        "modelo": "E-Class",
+        "año": 2004,
+        "color": "Maroon"
+    },
+    {
+        "nombre": "Suzuki",
+        "modelo": "Grand Vitara",
+        "año": 2011,
+        "color": "Green"
+    },
+    {
+        "nombre": "Pontiac",
+        "modelo": "Grand Am",
+        "año": 1987,
+        "color": "Blue"
+    },
+    {
+        "nombre": "Mazda",
+        "modelo": "RX-8",
+        "año": 2006,
+        "color": "Goldenrod"
+    }
+]
